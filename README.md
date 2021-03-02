@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is vatsal
-![](https://unsplash.com/photos/ieic5Tq8YMk)
 
+[<img src='https://unsplash.com/photos/ieic5Tq8YMk' alt='Python'>]
 I made this project just for fun, it allows you to create nice and simple 
 
 Skills: Python / HTML / CSS
