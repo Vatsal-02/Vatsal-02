@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vatsal Panchal</h1>
 <h3 align="center">I make Python mini projects and solve hackerrank python.</h3>
-- 📫 How to reach me **vatsalpanchal02@gmail.com**
 
 <img align="right" alt="GIF" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>
+
+- 📫 How to reach me **vatsalpanchal02@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-02&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-02" /> </p>
 
