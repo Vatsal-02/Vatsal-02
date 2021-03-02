@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal Panchal</h1>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320"/>
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <h3 align="center">I make Python mini projects and solve hackerrank python.</h3>
 
