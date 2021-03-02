@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is vatsal
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://unsplash.com/photos/ieic5Tq8YMk)
 
 I made this project just for fun, it allows you to create nice and simple 
 
