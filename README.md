@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **vatsalpanchal02@gmail.com**
 <br>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-02&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-02" /> </p>
 
 <h3 align="left">Connect with me:</h3>
