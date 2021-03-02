@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal Panchal</h1>
 
-<img align="right" alt="GIF" src="https://www.digitaldesignjournal.com/wp-content/uploads/2014/12/beAwesome-HD-wallpaper.jpg"/>
+<img align="right" alt="GIF" src="https://www.digitaldesignjournal.com/wp-content/uploads/2014/12/beAwesome-HD-wallpaper.jpg" width="500" height="320"/>
 
 <h3 align="center">I make Python mini projects and solve hackerrank python.</h3>
 
